@@ -1,0 +1,9 @@
+kind,variant,gap_pct,gap_ci,latency_ms,reliability,energy_j,sla_pct
+stage,SA + refinement,3.489,1.3155,10.1063,0.9915,15.6065,96.6667
+stage,SQA + refinement (ORCA),3.1905,1.3281,10.014,0.9915,15.529,95.8333
+stage,random + refinement,3.2165,1.1652,10.1874,0.9916,15.5272,96.6667
+terms,ORCA (full),3.1905,1.3281,10.014,0.9915,15.529,95.8333
+terms,no co-location (Eq. 16),6.0524,1.6503,11.2096,0.9914,15.3917,95.8333
+terms,no energy coupling (Eq. 15),3.9057,1.123,10.1625,0.9915,15.3965,95.8333
+terms,"no interference/RB (Eq. 7, 14)",4.6077,1.3068,9.9525,0.9916,15.5527,96.6667
+terms,no mobility (H_MOB),2.922,1.1898,9.8637,0.9915,15.5315,95.8333
